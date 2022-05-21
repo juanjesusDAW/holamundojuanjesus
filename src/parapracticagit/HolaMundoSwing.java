@@ -79,7 +79,7 @@ public class HolaMundoSwing extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 
-				System.out.println("Nueva opción seleccionada: " +
+				System.out.println("Nueva opción seleccionada: " + "y mas deseada"+
 						cmbBox.getSelectedItem());
 			}
 		});
